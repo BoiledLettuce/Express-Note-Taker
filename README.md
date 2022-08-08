@@ -30,3 +30,7 @@ An app that allows a user to write, save and delete notes.
 * Node.js
 * npm
 * Express
+
+## License
+
+Copyright (c) BoiledLettuce. All rights reserved.
