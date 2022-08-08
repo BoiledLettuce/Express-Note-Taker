@@ -14,6 +14,9 @@
     "heroku": "^7.62.0",
     "path": "^0.12.7"
   },
+  "engines":{
+    "node": "16.15.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BoiledLettuce/Express-Note-Taker.git"
