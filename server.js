@@ -1,10 +1,10 @@
-const express = require('express');
+const express = require('express'); //DEPENDENCY
 const path = require('path');
 
-const app = express();
+const app = express(); //EXPRESS
 const PORT = 3000;
 
-app.use(express.urlencoded({ extended: true }));
+app.use(express.urlencoded({ extended: true })); //DATA PARSING
 app.use(express.static('public'));
 app.use(express.json());
 
